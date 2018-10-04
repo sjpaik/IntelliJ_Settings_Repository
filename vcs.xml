@@ -6,7 +6,16 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="glterran19" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://106.243.97.186:8082" />
+          <option name="userName" value="qnex1234" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://106.243.97.186:8082/scm/git/projectAlpha" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="E:\workspace\intelliJ" />
   </component>
 </application>
