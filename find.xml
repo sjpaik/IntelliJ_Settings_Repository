@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'alpha'" />
-    <option name="defaultScopeName" value="Project 'alpha'" />
-    <option name="SEARCH_SCOPE" value="Project 'alpha'" />
+    <option name="customScope" value="File '...\src\main\java\com\project\alpha\system\config\ContextLogging.java [alpha]'" />
+    <option name="defaultScopeName" value="File '...\src\main\java\com\project\alpha\system\config\ContextLogging.java [alpha]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\project\alpha\system\config\ContextLogging.java [alpha]'" />
   </component>
 </application>
