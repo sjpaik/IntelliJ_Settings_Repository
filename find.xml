@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'crawling'" />
-    <option name="defaultScopeName" value="Project 'crawling'" />
-    <option name="SEARCH_SCOPE" value="Project 'crawling'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
